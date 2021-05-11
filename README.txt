@@ -1,0 +1,2 @@
+Each figure#.m correspond to the figures in the report.
+If error "Index exceeds the number of array elements" occurs for er_network, code requires rerun (Because S pairs and L links are selected randomly, some node pairs may not have shortest_path between them).
